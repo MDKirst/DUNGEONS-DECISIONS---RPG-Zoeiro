@@ -1,5 +1,5 @@
 const nomes = [
-  "Tharion Martel de Ferro",
+  "zeca urubu",
   "Kael, o Rasgador de Sombras",
   "Baldur Punho Flamejante",
   "Eldrak Lança de Prata",
